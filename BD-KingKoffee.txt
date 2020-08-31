@@ -1,0 +1,139 @@
+drop database cafeteria;
+
+create database cafeteria;
+
+use cafeteria;
+
+create table clientes
+(
+  id_cli int not null auto_increment,
+  usuario_cli varchar(30) not null,
+  senha_cli varchar(30) not null,
+  cpf_cli varchar(30) not null,
+  tel_cli varchar(30) not null,
+  cid_cli varchar(30) not null,
+  email_cli varchar(30) not null,
+  primary key(id_cli),
+  constraint uq_cli unique (cpf_cli)	
+);
+
+create table entrega
+(
+  id_entre int not null auto_increment,
+  numero_entre int not null,
+  complemento_entre varchar(300) not null,
+  rua_entre varchar(300) not null,
+  cidade_entre varchar(300) not null,
+  estado_entre varchar(300) not null,
+  bairro_entre varchar(300) not null,
+
+  primary key(id_entre)
+
+);
+
+create table cargos
+(
+  id_cargo int not null auto_increment,
+  tipo_cargo varchar(20) not null,
+  primary key (id_cargo)
+);
+  
+create table funcionarios
+(
+  id_func int not null auto_increment,
+  id_cargo int not null,
+  nome_func varchar(30) not null,
+  senha_func varchar(30) not null,
+  tel_func varchar(30) not null,
+  sal_func decimal(10,2) not null,
+  email_func varchar(30) not null,
+  sx_func char(2) not null,
+  primary key(id_func),
+  constraint ch_func check (sx_func in ("M" , "F", "O")),
+  constraint ch_func check (sal_func > 0),
+  foreign key(id_cargo) references cargos(id_cargo)
+);
+
+
+
+create table tipo_prod
+(
+  id_tipo int not null auto_increment,
+  nome_tipo varchar(20) not null,
+  qtdEst_tipo int not null,
+  primary key(id_tipo)
+);
+
+create table produtos
+(
+  id_prod int not null auto_increment,
+  id_tipo int not null,
+  nome_prod varchar(30) not null,
+  compl_prod varchar(20) not null,
+  qtd_prod int not null,
+  valor_prod float not null,
+  primary key(id_prod),
+  constraint ch_prod check (valor_prod > 0),
+  constraint ch_prod2 check (qtd_prod > 0),
+  foreign key(id_tipo)references tipo_prod(id_tipo) 
+);
+
+create table pagamento
+(
+  id_pagto int not null auto_increment,
+  tipo_pagto varchar(20) not null,
+  primary key(id_pagto)
+);
+
+create table venda
+(
+  id_vda int not null auto_increment,
+  id_cli int not null,
+  id_pagto int not null,
+  id_func int not null,
+  data_vda datetime not null,
+  valor_vda decimal(10,2) not null,
+  desct_vda decimal(10,2) not null,
+  primary key (id_vda),
+  constraint ch_vda check (valor_vda > 0),
+  constraint ch_vda2 check (desc_vda >= 0),
+  foreign key(id_cli)references clientes(id_cli), 
+  foreign key(id_pagto)references pagamento(id_pagto), 
+  foreign key(id_func)references funcionarios(id_func) 
+
+);
+
+create table it_vdas
+(
+  id_it int not null auto_increment,
+  id_vda int not null,
+  id_prod int not null,
+  qtd_it int not null,
+  acresVda_it decimal(10,2) not null,
+  obs_it varchar(20) not null,
+  subTot_it decimal(10,2) not null,
+  primary key (id_it),
+  constraint ch_it check (qtd_it > 0),
+  foreign key(id_prod)references produtos(id_prod),
+  foreign key(id_vda)references venda(id_vda)
+
+);
+
+
+insert into clientes values(0, "Roger", "roger123", "18345612341", "945178526", "Florianopolis", "roger.4@gmail.com");
+insert into clientes values(0, 'Lucas', '321', '18345611341', '945278526', 'Florianopolis', 'lucas.3@gmail.com');
+insert into cargos values(0, "atendente");
+insert into pagamento values(0, "cartao"); 
+insert into funcionarios values(0, '1', 'roberto', 'rob123', '123123', '2133', 'dfsdada', 'M');
+insert into funcionarios values(0, '1', 'Lucas', '123', '988089314', '8999', 'lucmah42@gmail.com', 'M');
+insert into tipo_prod values(0, 'Café', '3');
+insert into produtos values(0, '1', 'cafe normal', 'acucar', '3', '23');
+insert into venda values(0, '2', '1', '2', '2019-02-21 11:01:32', '23', '23');
+insert into it_vdas values(0, '1', '1', '3', '3', 'n sei', '13');
+
+update clientes set usuario_cli='Diego'where id_cli='1';
+
+
+update funcionarios set nome_func='Jose'where id_func='1';
+
+delete from funcionarios where id_func='4';

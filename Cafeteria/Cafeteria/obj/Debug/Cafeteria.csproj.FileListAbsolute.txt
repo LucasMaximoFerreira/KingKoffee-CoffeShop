@@ -1,0 +1,603 @@
+C:\Users\conec\OneDrive\Documentos\TI\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe.config
+C:\Users\conec\OneDrive\Documentos\TI\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe
+C:\Users\conec\OneDrive\Documentos\TI\Cafeteria\Cafeteria\bin\Debug\Cafeteria.pdb
+C:\Users\conec\OneDrive\Documentos\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form1.resources
+C:\Users\conec\OneDrive\Documentos\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.imagens.resources
+C:\Users\conec\OneDrive\Documentos\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Properties.Resources.resources
+C:\Users\conec\OneDrive\Documentos\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.GenerateResource.cache
+C:\Users\conec\OneDrive\Documentos\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.CoreCompileInputs.cache
+C:\Users\conec\OneDrive\Documentos\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.exe
+C:\Users\conec\OneDrive\Documentos\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.pdb
+F:\TI\TI\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe.config
+F:\TI\TI\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe
+F:\TI\TI\Cafeteria\Cafeteria\bin\Debug\Cafeteria.pdb
+F:\TI\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form1.resources
+F:\TI\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.imagens.resources
+F:\TI\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Properties.Resources.resources
+F:\TI\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.GenerateResource.cache
+F:\TI\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.CoreCompileInputs.cache
+F:\TI\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.exe
+F:\TI\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.pdb
+F:\TI\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csprojAssemblyReference.cache
+F:\TI\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form2.resources
+F:\TI\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form3.resources
+C:\Users\aluno.ETEP.016\Downloads\TI (1)\TI\TI\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe.config
+C:\Users\aluno.ETEP.016\Downloads\TI (1)\TI\TI\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe
+C:\Users\aluno.ETEP.016\Downloads\TI (1)\TI\TI\Cafeteria\Cafeteria\bin\Debug\Cafeteria.pdb
+C:\Users\aluno.ETEP.016\Downloads\TI (1)\TI\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csprojAssemblyReference.cache
+C:\Users\aluno.ETEP.016\Downloads\TI (1)\TI\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form1.resources
+C:\Users\aluno.ETEP.016\Downloads\TI (1)\TI\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form2.resources
+C:\Users\aluno.ETEP.016\Downloads\TI (1)\TI\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form3.resources
+C:\Users\aluno.ETEP.016\Downloads\TI (1)\TI\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.imagens.resources
+C:\Users\aluno.ETEP.016\Downloads\TI (1)\TI\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Properties.Resources.resources
+C:\Users\aluno.ETEP.016\Downloads\TI (1)\TI\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.GenerateResource.cache
+C:\Users\aluno.ETEP.016\Downloads\TI (1)\TI\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.CoreCompileInputs.cache
+C:\Users\aluno.ETEP.016\Downloads\TI (1)\TI\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.exe
+C:\Users\aluno.ETEP.016\Downloads\TI (1)\TI\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.pdb
+C:\Users\aluno\Downloads\TI-AtualizadoAula (1)\TI\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe.config
+C:\Users\aluno\Downloads\TI-AtualizadoAula (1)\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.exe
+C:\Users\aluno\Downloads\TI-AtualizadoAula (1)\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.pdb
+C:\Users\aluno\Downloads\TI-AtualizadoAula (1)\TI\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe
+C:\Users\aluno\Downloads\TI-AtualizadoAula (1)\TI\Cafeteria\Cafeteria\bin\Debug\Cafeteria.pdb
+C:\Users\aluno\Downloads\TI-AtualizadoAula (1)\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form1.resources
+C:\Users\aluno\Downloads\TI-AtualizadoAula (1)\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form2.resources
+C:\Users\aluno\Downloads\TI-AtualizadoAula (1)\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form3.resources
+C:\Users\aluno\Downloads\TI-AtualizadoAula (1)\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.imagens.resources
+C:\Users\aluno\Downloads\TI-AtualizadoAula (1)\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Properties.Resources.resources
+C:\Users\aluno\Downloads\TI-AtualizadoAula (1)\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.GenerateResource.Cache
+C:\Users\aluno\Downloads\TI-AtualizadoAula (1)\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.inserir.resources
+F:\TI-Atualizadasso\TI-Atualizadasso\TI-AtualizadoAula (1)\TI\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe.config
+F:\TI-Atualizadasso\TI-Atualizadasso\TI-AtualizadoAula (1)\TI\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe
+F:\TI-Atualizadasso\TI-Atualizadasso\TI-AtualizadoAula (1)\TI\Cafeteria\Cafeteria\bin\Debug\Cafeteria.pdb
+F:\TI-Atualizadasso\TI-Atualizadasso\TI-AtualizadoAula (1)\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csprojAssemblyReference.cache
+F:\TI-Atualizadasso\TI-Atualizadasso\TI-AtualizadoAula (1)\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia_4.resources
+F:\TI-Atualizadasso\TI-Atualizadasso\TI-AtualizadoAula (1)\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia2.resources
+F:\TI-Atualizadasso\TI-Atualizadasso\TI-AtualizadoAula (1)\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia3.resources
+F:\TI-Atualizadasso\TI-Atualizadasso\TI-AtualizadoAula (1)\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia5.resources
+F:\TI-Atualizadasso\TI-Atualizadasso\TI-AtualizadoAula (1)\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia6.resources
+F:\TI-Atualizadasso\TI-Atualizadasso\TI-AtualizadoAula (1)\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia7.resources
+F:\TI-Atualizadasso\TI-Atualizadasso\TI-AtualizadoAula (1)\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form1.resources
+F:\TI-Atualizadasso\TI-Atualizadasso\TI-AtualizadoAula (1)\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form2.resources
+F:\TI-Atualizadasso\TI-Atualizadasso\TI-AtualizadoAula (1)\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form3.resources
+F:\TI-Atualizadasso\TI-Atualizadasso\TI-AtualizadoAula (1)\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.imagens.resources
+F:\TI-Atualizadasso\TI-Atualizadasso\TI-AtualizadoAula (1)\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.inserir.resources
+F:\TI-Atualizadasso\TI-Atualizadasso\TI-AtualizadoAula (1)\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Properties.Resources.resources
+F:\TI-Atualizadasso\TI-Atualizadasso\TI-AtualizadoAula (1)\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.GenerateResource.cache
+F:\TI-Atualizadasso\TI-Atualizadasso\TI-AtualizadoAula (1)\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.CoreCompileInputs.cache
+F:\TI-Atualizadasso\TI-Atualizadasso\TI-AtualizadoAula (1)\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.exe
+F:\TI-Atualizadasso\TI-Atualizadasso\TI-AtualizadoAula (1)\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.pdb
+F:\TI-Atualizadasso\TI-Atualizadasso\TI-AtualizadoAula (1)\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form4.resources
+F:\TI-Atualizadasso\TI-Atualizadasso\TI-AtualizadoAula (1)\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form5.resources
+F:\TI-Atualizadasso\TI-Atualizadasso\TI-AtualizadoAula (1)\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Menu.resources
+F:\TI-Atualizadasso\TI-Atualizadasso\TI-AtualizadoAula (1)\TI\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form6.resources
+\\LAPTOP-08HCDKU3\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csprojAssemblyReference.cache
+\\LAPTOP-08HCDKU3\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.exe
+\\LAPTOP-08HCDKU3\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.pdb
+C:\Users\conec\OneDrive\Área de Trabalho\TI - arq\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe.config
+C:\Users\conec\OneDrive\Área de Trabalho\TI - arq\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe
+C:\Users\conec\OneDrive\Área de Trabalho\TI - arq\Cafeteria\Cafeteria\bin\Debug\Cafeteria.pdb
+C:\Users\conec\OneDrive\Área de Trabalho\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csprojAssemblyReference.cache
+C:\Users\conec\OneDrive\Área de Trabalho\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia_4.resources
+C:\Users\conec\OneDrive\Área de Trabalho\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia2.resources
+C:\Users\conec\OneDrive\Área de Trabalho\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia3.resources
+C:\Users\conec\OneDrive\Área de Trabalho\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia5.resources
+C:\Users\conec\OneDrive\Área de Trabalho\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia6.resources
+C:\Users\conec\OneDrive\Área de Trabalho\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia7.resources
+C:\Users\conec\OneDrive\Área de Trabalho\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form2.resources
+C:\Users\conec\OneDrive\Área de Trabalho\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form3.resources
+C:\Users\conec\OneDrive\Área de Trabalho\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form4.resources
+C:\Users\conec\OneDrive\Área de Trabalho\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form5.resources
+C:\Users\conec\OneDrive\Área de Trabalho\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form6.resources
+C:\Users\conec\OneDrive\Área de Trabalho\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.inserir.resources
+C:\Users\conec\OneDrive\Área de Trabalho\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Menu.resources
+C:\Users\conec\OneDrive\Área de Trabalho\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Properties.Resources.resources
+C:\Users\conec\OneDrive\Área de Trabalho\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.GenerateResource.cache
+C:\Users\conec\OneDrive\Área de Trabalho\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.CoreCompileInputs.cache
+C:\Users\conec\OneDrive\Área de Trabalho\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.exe
+C:\Users\conec\OneDrive\Área de Trabalho\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.pdb
+C:\Users\conec\OneDrive\Área de Trabalho\TI - arq\Cafeteria\Cafeteria\bin\Debug\mysql.data.dll
+C:\Users\conec\OneDrive\Área de Trabalho\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.CopyComplete
+\\LAPTOP-08HCDKU3\TI - arq\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe.config
+\\LAPTOP-08HCDKU3\TI - arq\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe
+\\LAPTOP-08HCDKU3\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia_4.resources
+\\LAPTOP-08HCDKU3\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia2.resources
+\\LAPTOP-08HCDKU3\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia3.resources
+\\LAPTOP-08HCDKU3\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia5.resources
+\\LAPTOP-08HCDKU3\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia6.resources
+\\LAPTOP-08HCDKU3\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia7.resources
+\\LAPTOP-08HCDKU3\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form1.resources
+\\LAPTOP-08HCDKU3\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form2.resources
+\\LAPTOP-08HCDKU3\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form3.resources
+\\LAPTOP-08HCDKU3\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form4.resources
+\\LAPTOP-08HCDKU3\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form5.resources
+\\LAPTOP-08HCDKU3\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form6.resources
+\\LAPTOP-08HCDKU3\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.inserir.resources
+\\LAPTOP-08HCDKU3\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Menu.resources
+\\LAPTOP-08HCDKU3\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Properties.Resources.resources
+\\LAPTOP-08HCDKU3\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.GenerateResource.cache
+\\LAPTOP-08HCDKU3\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.CoreCompileInputs.cache
+\\LAPTOP-08HCDKU3\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.CopyComplete
+C:\Users\conec\OneDrive\Área de Trabalho\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.btnnn.resources
+C:\Users\conec\OneDrive\Área de Trabalho\TI - arq\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Caixa.resources
+C:\Users\aluno.ETEP.016\Downloads\Cafeína\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe.config
+C:\Users\aluno.ETEP.016\Downloads\Cafeína\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe
+C:\Users\aluno.ETEP.016\Downloads\Cafeína\Cafeteria\Cafeteria\bin\Debug\Cafeteria.pdb
+C:\Users\aluno.ETEP.016\Downloads\Cafeína\Cafeteria\Cafeteria\bin\Debug\mysql.data.dll
+C:\Users\aluno.ETEP.016\Downloads\Cafeína\Cafeteria\Cafeteria\bin\Debug\mysql.data.xml
+C:\Users\aluno.ETEP.016\Downloads\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csprojAssemblyReference.cache
+C:\Users\aluno.ETEP.016\Downloads\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Caixa.resources
+C:\Users\aluno.ETEP.016\Downloads\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia_4.resources
+C:\Users\aluno.ETEP.016\Downloads\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia2.resources
+C:\Users\aluno.ETEP.016\Downloads\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia3.resources
+C:\Users\aluno.ETEP.016\Downloads\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia5.resources
+C:\Users\aluno.ETEP.016\Downloads\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia6.resources
+C:\Users\aluno.ETEP.016\Downloads\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia7.resources
+C:\Users\aluno.ETEP.016\Downloads\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.btnnn.resources
+C:\Users\aluno.ETEP.016\Downloads\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form2.resources
+C:\Users\aluno.ETEP.016\Downloads\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form3.resources
+C:\Users\aluno.ETEP.016\Downloads\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form4.resources
+C:\Users\aluno.ETEP.016\Downloads\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form5.resources
+C:\Users\aluno.ETEP.016\Downloads\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form6.resources
+C:\Users\aluno.ETEP.016\Downloads\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.inserir.resources
+C:\Users\aluno.ETEP.016\Downloads\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Menu.resources
+C:\Users\aluno.ETEP.016\Downloads\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Properties.Resources.resources
+C:\Users\aluno.ETEP.016\Downloads\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.GenerateResource.cache
+C:\Users\aluno.ETEP.016\Downloads\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.CoreCompileInputs.cache
+C:\Users\aluno.ETEP.016\Downloads\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.CopyComplete
+C:\Users\aluno.ETEP.016\Downloads\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.exe
+C:\Users\aluno.ETEP.016\Downloads\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.pdb
+C:\Users\HanchivoGamer\Downloads\Cafeína\Cafeína\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe.config
+C:\Users\HanchivoGamer\Downloads\Cafeína\Cafeína\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe
+C:\Users\HanchivoGamer\Downloads\Cafeína\Cafeína\Cafeteria\Cafeteria\bin\Debug\Cafeteria.pdb
+C:\Users\HanchivoGamer\Downloads\Cafeína\Cafeína\Cafeteria\Cafeteria\bin\Debug\mysql.data.xml
+C:\Users\HanchivoGamer\Downloads\Cafeína\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csprojAssemblyReference.cache
+C:\Users\HanchivoGamer\Downloads\Cafeína\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Caixa.resources
+C:\Users\HanchivoGamer\Downloads\Cafeína\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia_4.resources
+C:\Users\HanchivoGamer\Downloads\Cafeína\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia2.resources
+C:\Users\HanchivoGamer\Downloads\Cafeína\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia3.resources
+C:\Users\HanchivoGamer\Downloads\Cafeína\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia5.resources
+C:\Users\HanchivoGamer\Downloads\Cafeína\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia6.resources
+C:\Users\HanchivoGamer\Downloads\Cafeína\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia7.resources
+C:\Users\HanchivoGamer\Downloads\Cafeína\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.btnnn.resources
+C:\Users\HanchivoGamer\Downloads\Cafeína\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form2.resources
+C:\Users\HanchivoGamer\Downloads\Cafeína\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form3.resources
+C:\Users\HanchivoGamer\Downloads\Cafeína\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form4.resources
+C:\Users\HanchivoGamer\Downloads\Cafeína\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form5.resources
+C:\Users\HanchivoGamer\Downloads\Cafeína\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form6.resources
+C:\Users\HanchivoGamer\Downloads\Cafeína\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.inserir.resources
+C:\Users\HanchivoGamer\Downloads\Cafeína\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Menu.resources
+C:\Users\HanchivoGamer\Downloads\Cafeína\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Properties.Resources.resources
+C:\Users\HanchivoGamer\Downloads\Cafeína\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.GenerateResource.cache
+C:\Users\HanchivoGamer\Downloads\Cafeína\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.CoreCompileInputs.cache
+C:\Users\HanchivoGamer\Downloads\Cafeína\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.CopyComplete
+C:\Users\HanchivoGamer\Downloads\Cafeína\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.exe
+C:\Users\HanchivoGamer\Downloads\Cafeína\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.pdb
+C:\Users\HanchivoGamer\Downloads\Cafeteria KingKoffee smfn\Cafeína\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe.config
+C:\Users\HanchivoGamer\Downloads\Cafeteria KingKoffee smfn\Cafeína\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe
+C:\Users\HanchivoGamer\Downloads\Cafeteria KingKoffee smfn\Cafeína\Cafeteria\Cafeteria\bin\Debug\Cafeteria.pdb
+C:\Users\HanchivoGamer\Downloads\Cafeteria KingKoffee smfn\Cafeína\Cafeteria\Cafeteria\bin\Debug\mysql.data.xml
+C:\Users\HanchivoGamer\Downloads\Cafeteria KingKoffee smfn\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csprojAssemblyReference.cache
+C:\Users\HanchivoGamer\Downloads\Cafeteria KingKoffee smfn\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Caixa.resources
+C:\Users\HanchivoGamer\Downloads\Cafeteria KingKoffee smfn\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia_4.resources
+C:\Users\HanchivoGamer\Downloads\Cafeteria KingKoffee smfn\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia2.resources
+C:\Users\HanchivoGamer\Downloads\Cafeteria KingKoffee smfn\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia3.resources
+C:\Users\HanchivoGamer\Downloads\Cafeteria KingKoffee smfn\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia5.resources
+C:\Users\HanchivoGamer\Downloads\Cafeteria KingKoffee smfn\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia6.resources
+C:\Users\HanchivoGamer\Downloads\Cafeteria KingKoffee smfn\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia7.resources
+C:\Users\HanchivoGamer\Downloads\Cafeteria KingKoffee smfn\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.btnnn.resources
+C:\Users\HanchivoGamer\Downloads\Cafeteria KingKoffee smfn\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form2.resources
+C:\Users\HanchivoGamer\Downloads\Cafeteria KingKoffee smfn\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form3.resources
+C:\Users\HanchivoGamer\Downloads\Cafeteria KingKoffee smfn\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form4.resources
+C:\Users\HanchivoGamer\Downloads\Cafeteria KingKoffee smfn\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form5.resources
+C:\Users\HanchivoGamer\Downloads\Cafeteria KingKoffee smfn\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form6.resources
+C:\Users\HanchivoGamer\Downloads\Cafeteria KingKoffee smfn\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.inserir.resources
+C:\Users\HanchivoGamer\Downloads\Cafeteria KingKoffee smfn\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Menu.resources
+C:\Users\HanchivoGamer\Downloads\Cafeteria KingKoffee smfn\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Properties.Resources.resources
+C:\Users\HanchivoGamer\Downloads\Cafeteria KingKoffee smfn\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.GenerateResource.cache
+C:\Users\HanchivoGamer\Downloads\Cafeteria KingKoffee smfn\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.CoreCompileInputs.cache
+C:\Users\HanchivoGamer\Downloads\Cafeteria KingKoffee smfn\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.CopyComplete
+C:\Users\HanchivoGamer\Downloads\Cafeteria KingKoffee smfn\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.exe
+C:\Users\HanchivoGamer\Downloads\Cafeteria KingKoffee smfn\Cafeína\Cafeteria\Cafeteria\obj\Debug\Cafeteria.pdb
+C:\Users\conec\OneDrive\Área de Trabalho\KingKoffee22\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe.config
+C:\Users\conec\OneDrive\Área de Trabalho\KingKoffee22\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe
+C:\Users\conec\OneDrive\Área de Trabalho\KingKoffee22\Cafeteria\Cafeteria\bin\Debug\Cafeteria.pdb
+C:\Users\conec\OneDrive\Área de Trabalho\KingKoffee22\Cafeteria\Cafeteria\bin\Debug\mysql.data.dll
+C:\Users\conec\OneDrive\Área de Trabalho\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Caixa.resources
+C:\Users\conec\OneDrive\Área de Trabalho\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia_4.resources
+C:\Users\conec\OneDrive\Área de Trabalho\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia2.resources
+C:\Users\conec\OneDrive\Área de Trabalho\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia3.resources
+C:\Users\conec\OneDrive\Área de Trabalho\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia5.resources
+C:\Users\conec\OneDrive\Área de Trabalho\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia6.resources
+C:\Users\conec\OneDrive\Área de Trabalho\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia7.resources
+C:\Users\conec\OneDrive\Área de Trabalho\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.btnnn.resources
+C:\Users\conec\OneDrive\Área de Trabalho\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form2.resources
+C:\Users\conec\OneDrive\Área de Trabalho\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form6.resources
+C:\Users\conec\OneDrive\Área de Trabalho\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.inserir.resources
+C:\Users\conec\OneDrive\Área de Trabalho\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Menu.resources
+C:\Users\conec\OneDrive\Área de Trabalho\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Properties.Resources.resources
+C:\Users\conec\OneDrive\Área de Trabalho\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.GenerateResource.cache
+C:\Users\conec\OneDrive\Área de Trabalho\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.CoreCompileInputs.cache
+C:\Users\conec\OneDrive\Área de Trabalho\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.CopyComplete
+C:\Users\conec\OneDrive\Área de Trabalho\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.exe
+C:\Users\conec\OneDrive\Área de Trabalho\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.pdb
+C:\Users\conec\OneDrive\Área de Trabalho\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.IntCard.resources
+C:\Users\conec\OneDrive\Área de Trabalho\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Bebidas.resources
+\\LAPTOP-08HCDKU3\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csprojAssemblyReference.cache
+\\LAPTOP-08HCDKU3\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Bebidas.resources
+\\LAPTOP-08HCDKU3\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Caixa.resources
+\\LAPTOP-08HCDKU3\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia_4.resources
+\\LAPTOP-08HCDKU3\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia2.resources
+\\LAPTOP-08HCDKU3\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia3.resources
+\\LAPTOP-08HCDKU3\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia5.resources
+\\LAPTOP-08HCDKU3\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia6.resources
+\\LAPTOP-08HCDKU3\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia7.resources
+\\LAPTOP-08HCDKU3\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.btnnn.resources
+\\LAPTOP-08HCDKU3\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form2.resources
+\\LAPTOP-08HCDKU3\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form3.resources
+\\LAPTOP-08HCDKU3\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form4.resources
+\\LAPTOP-08HCDKU3\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form5.resources
+\\LAPTOP-08HCDKU3\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form6.resources
+\\LAPTOP-08HCDKU3\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.inserir.resources
+\\LAPTOP-08HCDKU3\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.IntCard.resources
+\\LAPTOP-08HCDKU3\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Menu.resources
+\\LAPTOP-08HCDKU3\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Properties.Resources.resources
+\\LAPTOP-08HCDKU3\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.GenerateResource.cache
+\\LAPTOP-08HCDKU3\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.CoreCompileInputs.cache
+\\LAPTOP-08HCDKU3\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.exe
+\\LAPTOP-08HCDKU3\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.pdb
+\\LAPTOP-08HCDKU3\KingKoffee22\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe.config
+\\LAPTOP-08HCDKU3\KingKoffee22\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe
+\\LAPTOP-08HCDKU3\KingKoffee22\Cafeteria\Cafeteria\bin\Debug\Cafeteria.pdb
+\\LAPTOP-08HCDKU3\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.CopyComplete
+C:\Users\conec\OneDrive\Área de Trabalho\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.BebidasButtons.resources
+C:\Users\conec\OneDrive\Área de Trabalho\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Cafes.resources
+C:\Users\conec\OneDrive\Área de Trabalho\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Chas.resources
+C:\Users\conec\OneDrive\Área de Trabalho\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Frappuccino.resources
+\\LAPTOP-08HCDKU3\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.BebidasButtons.resources
+\\LAPTOP-08HCDKU3\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Cafes.resources
+\\LAPTOP-08HCDKU3\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Chas.resources
+\\LAPTOP-08HCDKU3\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Frappuccino.resources
+C:\Users\conec\OneDrive\Área de Trabalho\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Cafes2.resources
+\\LAPTOP-08HCDKU3\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Cafes2.resources
+C:\Users\conec\OneDrive\Área de Trabalho\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Frappuccino2.resources
+C:\Users\conec\OneDrive\Área de Trabalho\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Oferta.resources
+C:\Users\conec\OneDrive\Área de Trabalho\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Frappuccino3.resources
+C:\Users\conec\OneDrive\Área de Trabalho\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Comida.resources
+C:\Users\conec\OneDrive\Área de Trabalho\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Comidasbtn.resources
+C:\Users\conec\OneDrive\Área de Trabalho\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Delivery.resources
+C:\Users\conec\OneDrive\Área de Trabalho\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.panelc.resources
+C:\Users\conec\OneDrive\Área de Trabalho\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csprojAssemblyReference.cache
+C:\Users\conec\OneDrive\Área de Trabalho\KingKoffee22\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Sand.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe.config
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\bin\Debug\Cafeteria.pdb
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Bebidas.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\obj\Debug\Cafeteria.BebidasButtons.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Cafes.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Cafes2.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Caixa.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Chas.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Comida.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Comidasbtn.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Delivery.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia_4.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia2.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia3.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia5.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia6.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia7.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\obj\Debug\Cafeteria.btnnn.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form2.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form6.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Frappuccino.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Frappuccino2.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Frappuccino3.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\obj\Debug\Cafeteria.inserir.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\obj\Debug\Cafeteria.IntCard.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Menu.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Oferta.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\obj\Debug\Cafeteria.panelc.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Properties.Resources.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Salgados.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Sand.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Sobremesas.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.GenerateResource.cache
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.CoreCompileInputs.cache
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.CopyComplete
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\obj\Debug\Cafeteria.exe
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\obj\Debug\Cafeteria.pdb
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Carrinho.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\obj\Debug\Cafeteria.BemVindos.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\obj\Debug\Cafeteria.CadAdm.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csprojAssemblyReference.cache
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria\Cafeteria\obj\Debug\Cafeteria.AdmBemVindo.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe.config
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\bin\Debug\Cafeteria.pdb
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\bin\Debug\mysql.data.dll
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csprojAssemblyReference.cache
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.AdmBemVindo.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Bebidas.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.BebidasButtons.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.BemVindos.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.CadAdm.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Cafes.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Cafes2.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Caixa.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Carrinho.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Chas.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Comida.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Comidasbtn.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Delivery.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia_4.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia2.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia3.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia5.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia6.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia7.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.btnnn.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.LoginCli.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Cadastrar.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Frappuccino.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Frappuccino2.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Frappuccino3.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.inserir.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.IntCard.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Menu.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Oferta.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.panelc.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Properties.Resources.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Salgados.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Sand.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Sobremesas.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.GenerateResource.cache
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.CoreCompileInputs.cache
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.CopyComplete
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.exe
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.pdb
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.FormEntrega.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.FormCarrinho.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe.config
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\bin\Debug\Cafeteria.pdb
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csprojAssemblyReference.cache
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.AdmBemVindo.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Bebidas.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.BebidasButtons.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.BemVindos.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.CadAdm.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Cafes.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Cafes2.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Caixa.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Carrinho.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Chas.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Comida.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Comidasbtn.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Delivery.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia_4.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia2.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia3.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia5.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia6.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia7.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.btnnn.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.FormCarrinho.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.FormEntrega.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.LoginCli.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Cadastrar.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Frappuccino.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Frappuccino2.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Frappuccino3.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.inserir.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.IntCard.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Menu.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Oferta.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.panelc.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Properties.Resources.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Salgados.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Sand.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Sobremesas.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.GenerateResource.cache
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.CoreCompileInputs.cache
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.CopyComplete
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.exe
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.pdb
+C:\Users\conec\OneDrive\Área de Trabalho\Ti\ti\Cafeteria\Cafeteria\obj\Debug\Cafeteria.BemVindosFunc.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe.config
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\bin\Debug\Cafeteria.pdb
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.AdmBemVindo.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Bebidas.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.BebidasButtons.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.BemVindos.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.BemVindosFunc.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.CadAdm.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Cafes.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Cafes2.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Caixa.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Carrinho.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Chas.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.cliFunc.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Comida.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Comidasbtn.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Delivery.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia_4.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia2.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia3.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia5.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia6.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia7.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.btnnn.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.FormCarrinho.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.FormEntrega.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.frmTelaExibir.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.funcPesq.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.LoginCli.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Cadastrar.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Frappuccino.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Frappuccino2.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Frappuccino3.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.inserir.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.IntCard.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Menu.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Oferta.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.panelc.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Properties.Resources.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Salgados.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Sand.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Sobremesas.resources
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.GenerateResource.cache
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.CoreCompileInputs.cache
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.CopyComplete
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.exe
+C:\Users\joao0\Downloads\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.pdb
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe.config
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\bin\Debug\Cafeteria.pdb
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\bin\Debug\mysql.data.dll
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csprojAssemblyReference.cache
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.AdmBemVindo.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Bebidas.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.BebidasButtons.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.BemVindos.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.BemVindosFunc.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.CadAdm.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Cafes.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Cafes2.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Caixa.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Carrinho.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Chas.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.cliFunc.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Comida.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Comidasbtn.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Delivery.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia_4.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia2.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia3.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia5.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia6.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia7.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.btnnn.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.FormCarrinho.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.FormEntrega.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.frmTelaExibir.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.funcPesq.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.LoginCli.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Cadastrar.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Frappuccino.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Frappuccino2.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Frappuccino3.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.inserir.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.IntCard.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Menu.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Oferta.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.panelc.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Properties.Resources.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Salgados.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Sand.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Sobremesas.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.GenerateResource.cache
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.CoreCompileInputs.cache
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.CopyComplete
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.exe
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\Cafeteria\Cafeteria\obj\Debug\Cafeteria.pdb
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe.config
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\bin\Debug\Cafeteria.pdb
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csprojAssemblyReference.cache
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.AdmBemVindo.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Bebidas.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.BebidasButtons.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.BemVindos.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.BemVindosFunc.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.CadAdm.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Cafes.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Cafes2.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Caixa.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Carrinho.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Chas.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.cliFunc.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Comida.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Comidasbtn.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Delivery.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia_4.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia2.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia3.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia5.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia6.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia7.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.btnnn.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.FormCarrinho.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.FormEntrega.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.frmTelaExibir.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.funcPesq.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.LoginCli.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Cadastrar.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Frappuccino.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Frappuccino2.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Frappuccino3.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.inserir.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.IntCard.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Menu.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Oferta.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.panelc.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Properties.Resources.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Salgados.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Sand.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Sobremesas.resources
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.GenerateResource.cache
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.CoreCompileInputs.cache
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.CopyComplete
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.exe
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.pdb
+C:\Users\conec\OneDrive\Área de Trabalho\Cafeteria (1)\cafe\Cafeteria\Cafeteria\obj\Debug\Cafeteria.PesquisarVenda.resources
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe.config
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\bin\Debug\Cafeteria.pdb
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\bin\Debug\mysql.data.dll
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csprojAssemblyReference.cache
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.AdmBemVindo.resources
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Bebidas.resources
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.BebidasButtons.resources
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.BemVindos.resources
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.BemVindosFunc.resources
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.CadAdm.resources
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Cafes.resources
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Cafes2.resources
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Caixa.resources
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Carrinho.resources
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Chas.resources
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.cliFunc.resources
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Comida.resources
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Comidasbtn.resources
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Delivery.resources
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia_4.resources
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia2.resources
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia3.resources
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia5.resources
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia6.resources
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia7.resources
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.btnnn.resources
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.FormCarrinho.resources
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.FormEntrega.resources
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.frmTelaExibir.resources
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.funcPesq.resources
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.LoginCli.resources
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Cadastrar.resources
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Frappuccino.resources
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Frappuccino2.resources
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Frappuccino3.resources
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.IntCard.resources
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Menu.resources
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Oferta.resources
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.PesquisarVenda.resources
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Properties.Resources.resources
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Salgados.resources
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Sand.resources
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Sobremesas.resources
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.GenerateResource.cache
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.CoreCompileInputs.cache
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.CopyComplete
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.exe
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.pdb
+C:\Users\conec\OneDrive\Área de Trabalho\FINALMENTE\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Dia1.resources

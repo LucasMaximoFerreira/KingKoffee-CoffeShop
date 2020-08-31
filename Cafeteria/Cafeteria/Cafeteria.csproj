@@ -1,0 +1,755 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FD311932-5E31-4E5A-8DBA-7E5EA8211195}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Cafeteria</RootNamespace>
+    <AssemblyName>Cafeteria</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mysql.data">
+      <HintPath>..\..\..\..\Documentos\TI\mysql.data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdmBemVindo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdmBemVindo.Designer.cs">
+      <DependentUpon>AdmBemVindo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bebidas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Bebidas.Designer.cs">
+      <DependentUpon>Bebidas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BebidasButtons.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BebidasButtons.Designer.cs">
+      <DependentUpon>BebidasButtons.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BemVindos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BemVindos.Designer.cs">
+      <DependentUpon>BemVindos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BemVindosFunc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BemVindosFunc.Designer.cs">
+      <DependentUpon>BemVindosFunc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadAdm.Designer.cs">
+      <DependentUpon>CadAdm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cafes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Cafes.Designer.cs">
+      <DependentUpon>Cafes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cafes2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Cafes2.Designer.cs">
+      <DependentUpon>Cafes2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Caixa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Caixa.Designer.cs">
+      <DependentUpon>Caixa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cargo.cs" />
+    <Compile Include="CargoDAO.cs" />
+    <Compile Include="Carrinho.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Carrinho.Designer.cs">
+      <DependentUpon>Carrinho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Chas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Chas.Designer.cs">
+      <DependentUpon>Chas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cliente.cs" />
+    <Compile Include="ClienteDAO.cs" />
+    <Compile Include="cliFunc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="cliFunc.Designer.cs">
+      <DependentUpon>cliFunc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Comida.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Comida.Designer.cs">
+      <DependentUpon>Comida.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Comidasbtn.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Comidasbtn.Designer.cs">
+      <DependentUpon>Comidasbtn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Compra.cs" />
+    <Compile Include="Conexao.cs" />
+    <Compile Include="Connected Services\ServiceReference2\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="dados.cs" />
+    <Compile Include="Delivery.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Delivery.Designer.cs">
+      <DependentUpon>Delivery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dia 4.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Dia 4.Designer.cs">
+      <DependentUpon>Dia 4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dia2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Dia2.Designer.cs">
+      <DependentUpon>Dia2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dia3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Dia3.Designer.cs">
+      <DependentUpon>Dia3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dia5.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Dia5.Designer.cs">
+      <DependentUpon>Dia5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dia6.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Dia6.Designer.cs">
+      <DependentUpon>Dia6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dia7.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Dia7.Designer.cs">
+      <DependentUpon>Dia7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Entrega.cs" />
+    <Compile Include="EntregaDAO.cs" />
+    <Compile Include="Cardápio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cardápio.Designer.cs">
+      <DependentUpon>Cardápio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCarrinho.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FormCarrinho.Designer.cs">
+      <DependentUpon>FormCarrinho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEntrega.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FormEntrega.Designer.cs">
+      <DependentUpon>FormEntrega.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTelaExibir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTelaExibir.Designer.cs">
+      <DependentUpon>frmTelaExibir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="funcPesq.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="funcPesq.Designer.cs">
+      <DependentUpon>funcPesq.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pagamento.cs" />
+    <Compile Include="PagamentoDAO.cs" />
+    <Compile Include="PesquisarVenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PesquisarVenda.Designer.cs">
+      <DependentUpon>PesquisarVenda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tipo_prod.cs" />
+    <Compile Include="tipo_prodDAO.cs" />
+    <Compile Include="it_vdas.cs" />
+    <Compile Include="it_vdasDAO.cs" />
+    <Compile Include="LoginCli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginCli.Designer.cs">
+      <DependentUpon>LoginCli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastrar.Designer.cs">
+      <DependentUpon>Cadastrar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frappuccino.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Frappuccino.Designer.cs">
+      <DependentUpon>Frappuccino.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frappuccino2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Frappuccino2.Designer.cs">
+      <DependentUpon>Frappuccino2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frappuccino3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Frappuccino3.Designer.cs">
+      <DependentUpon>Frappuccino3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funcionario.cs" />
+    <Compile Include="FuncionarioDAO.cs" />
+    <Compile Include="Dia1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Dia1.Designer.cs">
+      <DependentUpon>Dia1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IntCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IntCard.Designer.cs">
+      <DependentUpon>IntCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Oferta.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Oferta.Designer.cs">
+      <DependentUpon>Oferta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Produto.cs" />
+    <Compile Include="ProdutosDAO.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Salgados.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Salgados.Designer.cs">
+      <DependentUpon>Salgados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sand.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sand.Designer.cs">
+      <DependentUpon>Sand.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sobremesas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sobremesas.Designer.cs">
+      <DependentUpon>Sobremesas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Venda.cs" />
+    <Compile Include="VendaDAO.cs" />
+    <EmbeddedResource Include="AdmBemVindo.resx">
+      <DependentUpon>AdmBemVindo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bebidas.resx">
+      <DependentUpon>Bebidas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BebidasButtons.resx">
+      <DependentUpon>BebidasButtons.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BemVindos.resx">
+      <DependentUpon>BemVindos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BemVindosFunc.resx">
+      <DependentUpon>BemVindosFunc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadAdm.resx">
+      <DependentUpon>CadAdm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cafes.resx">
+      <DependentUpon>Cafes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cafes2.resx">
+      <DependentUpon>Cafes2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Caixa.resx">
+      <DependentUpon>Caixa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Carrinho.resx">
+      <DependentUpon>Carrinho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chas.resx">
+      <DependentUpon>Chas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cliFunc.resx">
+      <DependentUpon>cliFunc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comida.resx">
+      <DependentUpon>Comida.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comidasbtn.resx">
+      <DependentUpon>Comidasbtn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Delivery.resx">
+      <DependentUpon>Delivery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dia 4.resx">
+      <DependentUpon>Dia 4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dia2.resx">
+      <DependentUpon>Dia2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dia3.resx">
+      <DependentUpon>Dia3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dia5.resx">
+      <DependentUpon>Dia5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dia6.resx">
+      <DependentUpon>Dia6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dia7.resx">
+      <DependentUpon>Dia7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cardápio.resx">
+      <DependentUpon>Cardápio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCarrinho.resx">
+      <DependentUpon>FormCarrinho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEntrega.resx">
+      <DependentUpon>FormEntrega.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTelaExibir.resx">
+      <DependentUpon>frmTelaExibir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="funcPesq.resx">
+      <DependentUpon>funcPesq.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginCli.resx">
+      <DependentUpon>LoginCli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastrar.resx">
+      <DependentUpon>Cadastrar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frappuccino.resx">
+      <DependentUpon>Frappuccino.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frappuccino2.resx">
+      <DependentUpon>Frappuccino2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frappuccino3.resx">
+      <DependentUpon>Frappuccino3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dia1.resx">
+      <DependentUpon>Dia1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IntCard.resx">
+      <DependentUpon>IntCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Oferta.resx">
+      <DependentUpon>Oferta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PesquisarVenda.resx">
+      <DependentUpon>PesquisarVenda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Salgados.resx">
+      <DependentUpon>Salgados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sand.resx">
+      <DependentUpon>Sand.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sobremesas.resx">
+      <DependentUpon>Sobremesas.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Connected Services\ServiceReference2\AtendeClienteService.wsdl" />
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.atualizaPagamentoNaEntregaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.atualizaRemessaAgrupadaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.bloquearObjetoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.buscaClienteResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.buscaContratoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.buscaDataAtualResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.buscaPagamentoEntregaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.buscaServicosAdicionaisAtivosResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.buscaServicosResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.buscaServicosValorDeclaradoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.buscaServicosXServicosAdicionaisResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.buscaTarifaValeResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.calculaTarifaServicoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.cancelarObjetoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.cancelarPedidoScolResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.clienteERP.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.consultaCEPResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.consultaSROResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.consultaSRO_NEWResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.contratoERP.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.embalagemLRSMaster.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.enderecoERP.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.fechaPlpResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.fechaPlpVariosServicosResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.geraDigitoVerificadorEtiquetasResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.getStatusCartaoPostagemResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.getStatusPLPResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.integrarUsuarioScolResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.obterClienteAtualizacaoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.obterEmbalagemLRSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.retornoCancelamento.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.servicoAdicionalXML.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.servicoERP.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.solicitaEtiquetasResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.solicitaPLPResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.solicitarPostagemScolResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.solicitaXmlPlpResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.statusCartao.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.statusPlp.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.valePostal.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.validaEtiquetaPLPResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.validaPlpResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.validarPostagemReversaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.validarPostagemSimultaneaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.verificaDisponibilidadeServicoResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceReference2\Cafeteria.ServiceReference2.VerificaSeTodosObjetosCanceladosResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo logo KingKoffee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo logo KingKoffee2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\padlockVF.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo logo KingKoffee22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo logo KingKoffee blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo logo KingKoffee blue escuro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\email branco.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\facebookk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fb1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\google azul.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\google azul2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pass2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tw2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\email1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\email2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pass1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fb2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\google azullllll.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tw2222.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\twitter azul.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png lgoo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo KingKoffee blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone branco.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone branco1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home branco.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\idcard branco.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back blue back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone branco2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\idcard blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emailRed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home Red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\idcard Red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\passRed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone Red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\userRed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emailRed2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\email blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\comida branca.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\comida branca2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Connected Services\ServiceReference2\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\ServiceReference2\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\ServiceReference2\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\ServiceReference2\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cafe branco2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\motin branca2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carrinho branco.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
